@@ -1,9 +1,9 @@
 
 # Friday Night Funkin' Midi Pack! - Most & Full Accurate
 
-Loads of midi, contains most midi that I can know and/or self made for my content on my [YouTube Channel](https://www.youtube.com/channel/UCqNkUuUOYPHVsIpgk3FBStg)
+Loads of midi contain most midi that I can know and/or self-made for my content on my [YouTube Channel](https://www.youtube.com/channel/UCqNkUuUOYPHVsIpgk3FBStg)
 
-If there's any issues, you can make a new issues
+If there are any issues, you can make new issues
 
 If you have any requests for midi, you can but not all I can do
 
@@ -13,6 +13,10 @@ If you have any requests for midi, you can but not all I can do
 - [Song Name] (Full Accurate) - Songs that perfectly sync up
 
 - [Song Name] (Most Accurate) - Songs that almost/less perfectly sync up
+
+- [Song Name] With Porta Mono Slide (Any Accurate) - Songs that are required to enable the mono porta slide (Only the song has a sliding note, for example Polarity)
+
+  ![Screenshot 2024-06-07 143032](https://github.com/FujiwaraZachWatterson/MIDI-FNF-Full-And-Most-Accurate/assets/109717730/37381f45-bf38-4df0-b22f-ccc9b74c208b)
 ## List of Friday Night Funkin' Songs (Including Mods)
 
 - [Friday Night Funkin': Entity](https://gamebanana.com/mods/284934) [All Songs]
@@ -36,4 +40,4 @@ If you have any requests for midi, you can but not all I can do
 - [Vs Tricky](https://gamebanana.com/mods/44334) [3 Songs]
 - [Vs Void](https://gamebanana.com/mods/307819) [All Songs]
 - [Vs Whitty](https://gamebanana.com/mods/354884) [3 Songs]
-- [Vs Radi](https://gamebanana.com/mods/403483) (+ Muzix Medley) [15 Songs]
+- [Vs Radi](https://gamebanana.com/mods/403483) (+ Muzix Medley) [16 Songs]
