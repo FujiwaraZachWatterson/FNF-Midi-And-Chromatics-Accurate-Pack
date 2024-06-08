@@ -17,6 +17,11 @@ If you have any requests for midi, you can but not all I can do
 - [Song Name] With Porta Mono Slide (Any Accurate) - Songs that are required to enable the mono porta slide (Only the song has a sliding note, for example Polarity)
 
   ![Screenshot 2024-06-07 143032](https://github.com/FujiwaraZachWatterson/MIDI-FNF-Full-And-Most-Accurate/assets/109717730/37381f45-bf38-4df0-b22f-ccc9b74c208b)
+
+  If there's a double note, change the color note
+  
+  ![Screenshot 2024-06-08 143501](https://github.com/FujiwaraZachWatterson/MIDI-FNF-Full-And-Most-Accurate/assets/109717730/d81925a1-2407-43cc-975b-4e4d1e2e0183)
+  
 ## List of Friday Night Funkin' Songs (Including Mods)
 
 - [Friday Night Funkin': Entity](https://gamebanana.com/mods/284934) [All Songs]
