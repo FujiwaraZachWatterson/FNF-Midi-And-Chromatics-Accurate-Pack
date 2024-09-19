@@ -1,4 +1,3 @@
-
 # Friday Night Funkin' Midi Pack! - Most & Full Accurate
 
 Loads of midi contain most midi that I can know and/or self-made for my content on my [YouTube Channel](https://www.youtube.com/channel/UCqNkUuUOYPHVsIpgk3FBStg)
@@ -9,7 +8,7 @@ If you have any requests for midi, you can but not all I can do
 
 
 ## Categories
-
+  *FLP has now added but not all of them*
 - [Song Name] (Full Accurate) - Songs that perfectly sync up
 
 - [Song Name] (Most Accurate) - Songs that almost/less perfectly sync up
