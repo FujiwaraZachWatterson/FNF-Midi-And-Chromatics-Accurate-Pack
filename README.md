@@ -8,7 +8,7 @@ If you have any requests for midi, you can but not all I can do
 
 
 ## Categories
-  *FLP has now added but not all of them*
+  *FLP has now been added but not all of them*
 - [Song Name] (Full Accurate) - Songs that perfectly sync up
 
 - [Song Name] (Most Accurate) - Songs that almost/less perfectly sync up
