@@ -29,8 +29,8 @@ If you have any requests for midi, you can but not all I can do
   Example 2: ***Ruvyzvat - Opponent - Zavodila*** & ***Sarvente - Opponent - Zavodila***
 
 - [Character name] - Player - [Song name] -> FSC File, separate from other characters that sing only the player side. If there are 2 players, meaning there will be different characters and/or 2 players in one song.
-  Example 1: ***Boy - Player 1 - Boogieman*** & ***Girl - Player 2 - Boogieman)***
-  Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - Streetstyle***
+ Example 1: ***Boy - Player 1 - Boogieman*** & ***Girl - Player 2 - Boogieman)***
+ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - Streetstyle***
   
 ## List of Friday Night Funkin' Songs (Including Mods)
 ### Friday Night Funkin' Midi
