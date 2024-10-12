@@ -46,19 +46,19 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
 - [Friday Night Funkin': Baddies](https://www.mediafire.com/file/k52m4eltdem6pa6/FNF_Baddies.zip/file) **[Single Song]**
   - [Collapse](https://youtu.be/duWVGh7Sh5Q?si=qiGC-HsVM8yfNuIR)
 - [Friday Night Fever](https://gamebanana.com/mods/310465) *[13 Songs]*
- - [Bad Nun](https://youtu.be/LjgbxYxMczI?si=JduWOf84g_NCwUiI)
- - [Bazinga](https://youtu.be/fd1WOb48g5w?si=T63cphTnkwytkpAQ)
- - [Bloom](https://youtu.be/S8LfciQ74gw?si=I0vg8sLdcJa43F6w)
- - [C354R](https://youtu.be/5T9eq1hakbU?si=m62Wj9C0_GhY8jGd)
- - [Crucify](https://youtu.be/in8RGYjev7g?si=DjEyARqcvSWXJ3ft)
- - [Gears](https://youtu.be/yZWZx6hEV4w?si=b5DNBr3MG4K9pjld)
- - [Grando](https://youtu.be/LfKG1cLMB5E?si=vaSsPKZ_JTtRR9F1)
- - [Hallow](https://youtu.be/TDD3KuWuxV0?si=Ik-sSRHyExImmmqn)
- - [Loaded](https://youtu.be/L8ftPqSc7Vg?si=pktRKUTV_rVnc74c)
- - [Prayer](https://youtu.be/zxYnaAerAPY?si=uqQbDNZ929urp-uL)
- - [Princess](https://youtu.be/dpgpkkIEBS4?si=yTz6E4tZdueHdvcj)
- - [Shadow](https://youtu.be/Yn1gZLi_n24?si=Pcy3ZQAZ0fgG23Dh)
- - [Tranquility](https://youtu.be/jUNxjjZqZAw?si=3QlZrQ7XiueYgv9A)
+  - [Bad Nun](https://youtu.be/LjgbxYxMczI?si=JduWOf84g_NCwUiI)
+  - [Bazinga](https://youtu.be/fd1WOb48g5w?si=T63cphTnkwytkpAQ)
+  - [Bloom](https://youtu.be/S8LfciQ74gw?si=I0vg8sLdcJa43F6w)
+  - [C354R](https://youtu.be/5T9eq1hakbU?si=m62Wj9C0_GhY8jGd)
+  - [Crucify](https://youtu.be/in8RGYjev7g?si=DjEyARqcvSWXJ3ft)
+  - [Gears](https://youtu.be/yZWZx6hEV4w?si=b5DNBr3MG4K9pjld)
+  - [Grando](https://youtu.be/LfKG1cLMB5E?si=vaSsPKZ_JTtRR9F1)
+  - [Hallow](https://youtu.be/TDD3KuWuxV0?si=Ik-sSRHyExImmmqn)
+  - [Loaded](https://youtu.be/L8ftPqSc7Vg?si=pktRKUTV_rVnc74c)
+  - [Prayer](https://youtu.be/zxYnaAerAPY?si=uqQbDNZ929urp-uL)
+  - [Princess](https://youtu.be/dpgpkkIEBS4?si=yTz6E4tZdueHdvcj)
+  - [Shadow](https://youtu.be/Yn1gZLi_n24?si=Pcy3ZQAZ0fgG23Dh)
+  - [Tranquility](https://youtu.be/jUNxjjZqZAw?si=3QlZrQ7XiueYgv9A)
 - [Friday Night Funkin'](https://ninja-muffin24.itch.io/funkin) *[12 Songs]*
   - [Dad Battle](https://youtu.be/w0WyKTSuX4U?si=9QxWcxPlqOi7qqp5)
   - [Eggnog](https://youtu.be/jQ4QBD-Cu5I?si=b3-O3Bot9VUz6CL3)
@@ -73,7 +73,7 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
   - [Thorns](https://youtu.be/lWja270s6qA?si=ldRpEOuoeNEZaiVF)
   - [Ugh](https://youtu.be/_pLDBCkvyUg?si=zZdxDIL91ZLObSMg)
 - [Friday Night Funkin': Graffiti Groovin' (Vs. Skarlet Bunny)](https://gamebanana.com/mods/409366) **[Single Song]**
- - [Streetstyle](https://youtu.be/NzRe37ay6xA?si=akN3Vdynwlk-ZnOH)
+  - [Streetstyle](https://youtu.be/NzRe37ay6xA?si=akN3Vdynwlk-ZnOH)
 - [Friday Night Funkin': Hazy River (Vs. Annie & Garcello)](https://gamebanana.com/mods/374660) ***[All Songs]***
   - [Animal](https://youtu.be/fzuxkXz7OWg?si=7FNjUfKYn-Dw9kvt)
   - [Dilemma](https://youtu.be/UWqvRy26Otk?si=vwrfi6wXppkfirdC)
@@ -154,6 +154,7 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
   - [Triple Trouble](https://youtu.be/TcR-RpQ0_QA?si=dGaqrqqgKwQb8IY8)
   - [You Can't Run](https://youtu.be/uiRkM8VXwaI?si=pLwnZW5Vc1u3VIUe)
 - [Vs Sky](https://gamebanana.com/mods/44555) **[Single Song]**
+  - [Manifest](https://youtu.be/3lpyeTxlo0I?si=gwIybap1Yd4nV9Hz)
 - [Vs Ex Boyfriend / Tabi](https://gamebanana.com/mods/286388) ***[All Songs]***
   - [Genocide](https://youtu.be/pHdObRZyAdI?si=9IyIBU1KiVO1pZba)
   - [Last Chance](https://youtu.be/_TvFOlrCakM?si=i6oYYKCLzOh7NWiU)
@@ -174,8 +175,8 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
   - [Weightless](https://youtu.be/GP1y7xXUDo0?si=JwIZ8W4bFsvnDoQw)
 - [Vs Whitty](https://gamebanana.com/mods/354884) *[3 Songs]*
   - [Ballistic](https://youtu.be/Rk7GquhH7Wc?si=PbuMwQTtirGK8k8K)
-    - [Remastered / Sock.clip Remix](https://youtu.be/nsTrm8rjGME?si=-Op8RXi9xjD_GPVF)
-    - [RetroSpecter Remix](https://youtu.be/9QLbZrcDFo0?si=2SwSObi0bYSzvBGh)
+  - [Remastered / Sock.clip Remix](https://youtu.be/nsTrm8rjGME?si=-Op8RXi9xjD_GPVF)
+  - [RetroSpecter Remix](https://youtu.be/9QLbZrcDFo0?si=2SwSObi0bYSzvBGh)
 - [Vs Radi](https://gamebanana.com/mods/403483) (+ Muzix Medley) *[16 Songs]*
   - Muzix Medley
     - [Clubbin'](https://youtu.be/IORQDjFCOb8?t=377&si=pzHIuvaeY-iKnspb)
