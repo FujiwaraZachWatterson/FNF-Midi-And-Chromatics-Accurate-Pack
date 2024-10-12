@@ -59,6 +59,7 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
 - [Vs Void](https://gamebanana.com/mods/307819) ***[All Songs]***
 - [Vs Whitty](https://gamebanana.com/mods/354884) *[3 Songs]*
 - [Vs Radi](https://gamebanana.com/mods/403483) (+ Muzix Medley) *[16 Songs]*
+- [A Nonsensical Friday Night](https://gamebanana.com/mods/456005) **[Single Song]**
 
 ### Non-Friday Night Funkin' Midi
 - Touhou Project **[Single song]**
