@@ -153,7 +153,8 @@ Example 2: ***Boyfriend - Player - Streetstyle*** & ***Cassette Girl - Player - 
   - [Too Slow](https://youtu.be/uQw5NvCRxTk?si=IYxrvksK4H30BOPR)
   - [Triple Trouble](https://youtu.be/TcR-RpQ0_QA?si=dGaqrqqgKwQb8IY8)
   - [You Can't Run](https://youtu.be/uiRkM8VXwaI?si=pLwnZW5Vc1u3VIUe)
-- [Vs Sky](https://gamebanana.com/mods/44555) **[Single Song]**
+- [Vs Sky](https://gamebanana.com/mods/44555) **[2 Songs]**
+  - [Sky](https://youtu.be/WjQkBu3OV8M?si=X0PwIc9XvejS2XUG)
   - [Manifest](https://youtu.be/3lpyeTxlo0I?si=gwIybap1Yd4nV9Hz)
 - [Vs Ex Boyfriend / Tabi](https://gamebanana.com/mods/286388) ***[All Songs]***
   - [Genocide](https://youtu.be/pHdObRZyAdI?si=9IyIBU1KiVO1pZba)
